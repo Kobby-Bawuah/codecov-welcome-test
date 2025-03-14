@@ -1,2 +1,3 @@
 comment:
-  behavior: new  # Forces a new PR comment instead of updating
+  layout: "header, files"  # Removes the "diff" section
+  behavior: new  # Ensures a new comment is posted
