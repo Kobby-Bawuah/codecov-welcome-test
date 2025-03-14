@@ -1,3 +1,3 @@
 comment:
-  layout: "header, files"  # Removes the "diff" section
-  behavior: new  # Ensures a new comment is posted
+  layout: "header, diff"  # Removes "files" and "footer" sections
+  behavior: new  # Forces a fresh PR comment each time
