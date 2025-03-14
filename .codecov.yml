@@ -1,1 +1,2 @@
-comment: true
+comment:
+  behavior: new  # Forces a new PR comment instead of updating
